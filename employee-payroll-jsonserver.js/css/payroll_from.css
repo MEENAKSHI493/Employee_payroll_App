@@ -223,3 +223,8 @@ body {
       align-items: flex-start;
     }
   }
+  error-output {
+    font-size: 12px;
+    font-family: Roboto;
+    color: red;
+  }
